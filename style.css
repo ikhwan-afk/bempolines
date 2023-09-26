@@ -1,0 +1,12 @@
+body {
+  font-family: "Montserrat", Arial, sans-serif;
+}
+
+.banner {
+  background-image: url(bg-2.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  color: white;
+  padding: 19% 0;
+}
